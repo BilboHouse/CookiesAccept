@@ -1,0 +1,30 @@
+#barraaceptacion {
+	display:none;
+	position:fixed;
+	left:0;
+	right:0;
+	bottom:0;
+	padding-top:20px;
+	padding-bottom:20px;
+	width:100%;
+	height:auto;
+	min-height:50px;
+	text-align:center;
+	background-color:rgba(0,0,0,.7);
+	color:#fff;
+	font-size: 1.2em;
+	z-index:99999;
+}
+
+#barraaceptacion a {
+	background-color:rgba(255,255,255,.7);
+	color: #000;
+	border-radius: 5px;
+	padding: 4px;
+	text-decoration: none;
+}
+
+#barraaceptacion a:hover {
+	background-color:rgba(0,0,0,.8);
+	color: #fff;
+}
