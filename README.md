@@ -1,5 +1,5 @@
 # CookiesAccept
-![Cookies accept sample](http://www.bilbohouse.xyz/temporal/archivo/GitHub/img/cookies.jpg)
+![Cookies accept sample](https://bhdiseñoweb.com/temporal/archivo/GitHub/img/cookies.jpg)
 
 
 A simple Cookies Accept banner to your site.
@@ -25,8 +25,8 @@ Created by:
 ---
 
 > Endika Bernaola
-> * contacto@BilboHouse.xyz
-> * http://bilbohouse.xyz
+> * hola@bhweb.eu
+> * https://bhdiseñoweb.com
 
 
 
