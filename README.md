@@ -1,5 +1,5 @@
 # CookiesAccept
-![Cookies accept sample](https://bhdiseñoweb.com/temporal/archivo/GitHub/img/cookies.jpg)
+![Cookies accept sample](https://xn--bhdiseoweb-y9a.com/temporal/archivo/GitHub/img/cookies.jpg)
 
 
 A simple Cookies Accept banner to your site.
